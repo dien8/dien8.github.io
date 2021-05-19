@@ -661,13 +661,6 @@ nav#footer p{
 	background-color: rgba(138, 34, 34, 0.5);
 }
 
-.kulkan-team-members {
-display: flex;
-flex-wrap: wrap;
-justify-content: center;
-margin-bottom: 3rem;
-}
-
 .flip-card {
 padding-right: 1rem;
   background-color: transparent;
