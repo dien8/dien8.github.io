@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-ic_04_200x);
+      }
+
+      .cls-2, .cls-6, .cls-7 {
+        fill: none;
+      }
+
+      .cls-3 {
+        fill: #4f729e;
+      }
+
+      .cls-4 {
+        mix-blend-mode: multiply;
+        isolation: isolate;
+        fill: url(#linear-gradient);
+      }
+
+      .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-6 {
+        stroke: #4f729e;
+      }
+
+      .cls-6, .cls-7 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+
+      .cls-7 {
+        stroke: #fff;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="1" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4f729e"/>
+      <stop offset="0.419" stop-color="#a4b6cd"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <clipPath id="clip-ic_04_200x">
+      <rect width="200" height="200"/>
+    </clipPath>
+  </defs>
+  <g id="ic_04_200x" class="cls-1">
+    <g id="Grupo_135" data-name="Grupo 135" transform="translate(-1625 -127)">
+      <rect id="Rectángulo_11" data-name="Rectángulo 11" class="cls-2" width="120" height="120" transform="translate(1665 174)"/>
+      <path id="Trazado_9" data-name="Trazado 9" class="cls-3" d="M0,0H88V80L79.634,90,70.928,80,62.8,90,54.125,80l-8.8,10-9.6-10L26.7,90,17.232,80,8.516,90,0,80Z" transform="translate(1681 174)"/>
+      <path id="Trazado_35" data-name="Trazado 35" class="cls-4" d="M0,0H58.7l-32,90L17.232,80,8.516,90,0,80Z" transform="translate(1681 174)"/>
+      <ellipse id="Elipse_6" data-name="Elipse 6" class="cls-5" cx="10.5" cy="5.5" rx="10.5" ry="5.5" transform="translate(1702 208)"/>
+      <ellipse id="Elipse_7" data-name="Elipse 7" class="cls-5" cx="10.5" cy="5.5" rx="10.5" ry="5.5" transform="translate(1728 208)"/>
+      <path id="Trazado_10" data-name="Trazado 10" class="cls-6" d="M4847.5,802.021v7.585s-21.762-7.121-34.671,6.616-12.344,15.952-12.344,15.952" transform="translate(-3135 -538)"/>
+      <path id="Trazado_11" data-name="Trazado 11" class="cls-6" d="M4800.48,801.021v8.585s21.762-7.121,34.671,6.616,12.344,15.952,12.344,15.952" transform="translate(-3063 -538)"/>
+      <g id="Grupo_12" data-name="Grupo 12" transform="matrix(-0.966, -0.259, 0.259, -0.966, 3469.295, 1376.13)">
+        <path id="Trazado_4" data-name="Trazado 4" class="cls-7" d="M4377.732,712v3.334" transform="translate(-2423.713 -10.593)"/>
+        <path id="Trazado_5" data-name="Trazado 5" class="cls-6" d="M0,3.334V0" transform="translate(1972.047 719.509) rotate(90)"/>
+        <path id="Trazado_6" data-name="Trazado 6" class="cls-7" d="M0,0V3.334" transform="translate(1964.535 710.18) rotate(-135)"/>
+        <path id="Trazado_8" data-name="Trazado 8" class="cls-6" d="M0,3.334V0" transform="translate(1966.893 731.265) rotate(135)"/>
+        <path id="Trazado_7" data-name="Trazado 7" class="cls-6" d="M0,3.334V0" transform="translate(1939.201 707.822) rotate(-45)"/>
+      </g>
+    </g>
+  </g>
+</svg>
