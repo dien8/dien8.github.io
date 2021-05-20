@@ -654,11 +654,11 @@ nav#footer p{
 }
 
 .list-group-item {
-    border: 1px solid rgba(138, 34, 34, 0.5);
+    border: 1px solid rgba(255, 120, 68, 0.5);
 }
 
 .badge-primary {
-	background-color: rgba(138, 34, 34, 0.5);
+	background-color: rgba(255, 120, 68, 0.5);
 }
 
 .flip-card {
