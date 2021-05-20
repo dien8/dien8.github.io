@@ -658,7 +658,7 @@ nav#footer p{
 }
 
 .badge-primary {
-	background-color: rgba(255, 120, 68, 0.5);
+	background-color: rgba(255, 120, 68, 1.0);
 }
 
 .flip-card {
