@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="200" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-ic_02_200x);
+      }
+
+      .cls-2, .cls-7, .cls-9 {
+        fill: none;
+      }
+
+      .cls-3 {
+        mix-blend-mode: multiply;
+        isolation: isolate;
+        fill: url(#linear-gradient);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-5 {
+        fill: #4f729e;
+      }
+
+      .cls-6, .cls-9 {
+        stroke: #4f729e;
+        stroke-width: 2px;
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-7 {
+        stroke: #fff;
+      }
+
+      .cls-8 {
+        fill: url(#linear-gradient-4);
+      }
+
+      .cls-9 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-10 {
+        stroke: none;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="1" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4f729e"/>
+      <stop offset="0.419" stop-color="#a4b6cd"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="1" y1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#bdcfe6"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="1" y1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4f729e"/>
+      <stop offset="1" stop-color="#bcd3ef" stop-opacity="0.502"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="clip-ic_02_200x">
+      <rect width="200" height="200"/>
+    </clipPath>
+  </defs>
+  <g id="ic_02_200x" class="cls-1">
+    <g id="Grupo_133" data-name="Grupo 133" transform="translate(-696 -134)">
+      <rect id="Rectángulo_9" data-name="Rectángulo 9" class="cls-2" width="120" height="120" transform="translate(736 174)"/>
+      <rect id="Rectángulo_17" data-name="Rectángulo 17" class="cls-3" width="80" height="80" transform="translate(737 175)"/>
+      <rect id="Rectángulo_18" data-name="Rectángulo 18" class="cls-4" width="20" height="73" transform="translate(817 175)"/>
+      <g id="Grupo_6" data-name="Grupo 6" transform="translate(-180 -538)">
+        <rect id="Rectángulo_16" data-name="Rectángulo 16" class="cls-5" width="14" height="39" rx="7" transform="translate(998.686 804.586) rotate(-45)"/>
+        <g id="Elipse_5" data-name="Elipse 5" class="cls-6" transform="translate(943 739)">
+          <circle class="cls-10" cx="33" cy="33" r="33"/>
+          <circle class="cls-2" cx="33" cy="33" r="32"/>
+        </g>
+        <circle id="Elipse_9" data-name="Elipse 9" class="cls-7" cx="27" cy="27" r="27" transform="translate(949 745)"/>
+        <path id="Trazado_33" data-name="Trazado 33" class="cls-8" d="M29.5,62.079A29.5,29.5,0,0,1,0,32.584C0,16.294,45.785,62.079,29.5,62.079Z" transform="translate(943 742.921)"/>
+      </g>
+      <path id="Trazado_2" data-name="Trazado 2" class="cls-9" d="M3899.563,812.684H3872.17v-100h100v26.831" transform="translate(-3135.17 -537.684)"/>
+    </g>
+  </g>
+</svg>
